@@ -20,4 +20,7 @@ python train.py
 # test
 python test.py
 
+pre-trained model is available：https://pan.baidu.com/s/1tvgFilHKOGGWwWgcSJ7MFw 
+
+Extraction code：31ec 
 
