@@ -3,15 +3,15 @@
 The code is based on deepfill: https://github.com/csqiangwen/DeepFillv2_Pytorch
 
 # Dependencies
-Python 3
+● Python 3
 
-OpenCV-Python
+● OpenCV-Python
 
-Numpy
+● Numpy
 
-pytorch==1.6
+● pytorch==1.6
 
-pytorch3d
+● pytorch3d
 
 
 # train
